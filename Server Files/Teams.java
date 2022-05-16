@@ -1,5 +1,3 @@
-package PartialExam;
-
 public class Teams {
     // Class for storing columns
     private int columns;

@@ -1,5 +1,3 @@
-package PartialExam;
-
 import java.util.List;
 
 public class Team {
